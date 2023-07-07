@@ -1,0 +1,45 @@
+Java - 프로그래밍 언어
+        프로그래밍 언어는 개발자와 운영체제가 소통하기 위한 언어이다.
+
+[소스코드]
+	명령어를 작성해 놓은 것
+	개발자와 컴퓨터가 소통할 것을 글로 작성해 놓은 것
+
+[컴파일]
+	사람의 언어를 컴퓨터 언어로 바꿔주는 작업
+
+[컴파일러]
+	컴파일을 해주는 프로그램 또는 명령어
+
+[프로그램]
+	소스코드로 잘 짜여진 틀
+
+[콘솔]
+	개발자와 운영체제가 소통한 결과를 보여주는 창
+
+▶ 일반 프로그램
+	프로그램
+	OS : 하드웨어에 적절한 전기신호를 흘려주는 역할
+	하드웨어
+	
+	일반 프로그램 이식성이 좋지 않다.
+
+▶ 자바 프로그램
+	프로그램
+	JVM : JAVA 프로그램을 OS에 맞게 번역한다.
+	OS : 하드웨어에 적절한 전기신호를 흘려주는 역할
+	하드웨어
+	
+	JAVA 프로그램은 이식성이 좋다.
+
+-------------------------------------------------------------------------
+JVM(Java Virtual Machine)
+	JAVA 프로그램을 실행해 줌.
+JRE(Java Runtime Enviroment)
+	JVM을 생성하며, 실행할 때 필요한 라이브러리 파일들을 가지고 있다.
+JDK(Java Development Kit)
+	JRE외에 개발에 필요한 도구들을 가지고 있다.
+	컴파일 명령어와 실행 명령어를 담고 있다.
+JDK 드라이브 : https://drive.google.com/file/d/1uXJrIxuM95KTSjF-fxGos7pHsbknkVIZ/view?usp=share_link
+
+이클립스 : https://drive.google.com/file/d/1ZIVbjwsAvTyUw9ivb2SE3MVpAYiysgcf/view?usp=sharing

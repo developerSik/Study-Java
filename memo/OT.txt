@@ -1,0 +1,27 @@
+*오리엔테이션
+
+	
+한동석 강사
+이메일 주소 : tedhan1204@gmail.com
+메일 제목 : "웹개발1" 정상식
+메일 내용 : 텍스트를 그대로 붙여넣기, 오류에 대한 설명, 오류 코드
+
+수업 자료 공유: : 오픈 채팅방
+
+수업 방식 : 이론(그림 및 설명) -> 메모장(복습) -> 기초예제 -> 기초 실습 -> 심화 예제 -> 심화 실습
+
+과정 소개 
+	JAVA(API, 구글링)
+	DBMS(Oracle)
+	JDBC(Connection)
+	HTML(인라인 요소, 블록 요소, 인라인-블록 요소, 시맨틱 태그)
+	CSS(웹 앱 반응형)
+	JS(호이스팅, 프로토타입, 객체, 이벤트, DOM)
+	JSP(MySQL,  MVC 패턴)
+	SPA
+	JSON(구글에서 제작한 형식, 데이터 전달)
+	JSP 팀 프로젝트(Git-bash, Git-hub, SourceTree, Orzanization, PR)
+	Spring Boot(Oracle, DI, AOP, Transactional,  단위테스트, 검증...)
+	Maven, Gradle
+	REST(MSA)
+	

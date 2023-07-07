@@ -1,0 +1,24 @@
+package inputTest;
+
+import java.util.Scanner;
+
+public class Test {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String data1 = null;
+		int data2;
+		float data3;
+		String data4 = null;
+		
+		data1 = sc.next();
+		data2 = sc.nextInt();
+		data3 = sc.nextFloat();
+		data4 = sc.nextLine();
+		
+		System.out.println(data1);
+		System.out.println(data2);
+		System.out.println(data3);
+		System.out.println(data4);
+		
+	}
+}
